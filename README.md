@@ -26,3 +26,14 @@ Looker Studio (Google data Studio) Dashboards
 <img width="797" alt="Screenshot 2024-09-17 at 23 18 28" src="https://github.com/user-attachments/assets/d2bc803c-c488-4dda-afbc-a7461990eb3f">
 <img width="803" alt="Screenshot 2024-09-17 at 23 18 16" src="https://github.com/user-attachments/assets/af07b966-ef41-4a32-9bc9-1de0c2ae1917">
 
+
+
+<img width="821" alt="Screenshot 2024-09-17 at 23 34 19" src="https://github.com/user-attachments/assets/d4d5a636-5f9b-4573-89f1-7b380d804137">
+<img width="810" alt="Screenshot 2024-09-17 at 23 33 44" src="https://github.com/user-attachments/assets/49f9d60b-f33e-4488-b1a7-bb99cebd47a1">
+<img width="746" alt="Screenshot 2024-09-17 at 23 32 06" src="https://github.com/user-attachments/assets/f005c7c4-6308-47b6-9408-38e69639b6fb">
+<img width="174" alt="Screenshot 2024-09-17 at 23 31 54" src="https://github.com/user-attachments/assets/a79e6274-9c58-4474-a4f1-44e17d03c21d">
+<img width="793" alt="Screenshot 2024-09-17 at 23 31 32" src="https://github.com/user-attachments/assets/1b4f652e-ba8a-413d-ab18-1868b34db076">
+<img width="133" alt="Screenshot 2024-09-17 at 23 31 22" src="https://github.com/user-attachments/assets/713320ef-f190-40f1-8453-1f4ced063374">
+<img width="807" alt="Screenshot 2024-09-17 at 23 27 23" src="https://github.com/user-attachments/assets/d1ebec7d-201c-4781-8e7e-acdc9662897c">
+
+
