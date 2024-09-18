@@ -1,3 +1,9 @@
+I successfully completed a data science and data visualization project on Upwork, where I delivered high-quality results that exceeded client expectations. Leveraging predictive models and machine learning algorithms, I provided data-driven insights that enhanced decision-making. My work involved using Looker Studio and Tableau to create visually compelling dashboards, making complex data more accessible for stakeholders. This project demonstrated my ability to apply advanced tools and techniques in data science to solve real-world problems and highlighted my expertise in delivering impactful solutions.
+
+
+
+
+
 Ecommerce Purchase Behaviour 
 
 <img width="799" alt="Screenshot 2024-09-17 at 23 17 22" src="https://github.com/user-attachments/assets/ccd8e309-b221-456e-896d-4846a2121edf">
